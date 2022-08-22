@@ -4,4 +4,6 @@ This repo is for the students for easy access to all the programs asked mostly d
 
 Starting from Basics, this repository will contain more and more interesting content and codes.
 
+All codes are either my own or some modified codes for better complexities.
+
 INSTAGRAM - https://www.instagram.com/_alpha.py_/
